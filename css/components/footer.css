@@ -1,0 +1,14 @@
+.footer{
+    text-align: center;
+    background-color: darkgrey;
+    padding: 50px;
+}
+
+.footer a{
+    color: yellow;
+    font-size: 40px;
+}
+
+.footer .fas{
+    color: red;
+}

@@ -1,0 +1,8 @@
+.container{
+    width: auto;
+    margin: auto;
+}
+.container h2{
+    text-align: center;
+    font-size:50px;
+}
